@@ -1,5 +1,7 @@
 # js-edge-computing-example
 
+[Click here to get started](https://workers.cloudflare.com/)
+
 ### Install Wrangler, and log into your account
 
 ```bash
