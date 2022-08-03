@@ -1,0 +1,7 @@
+name = "js-edge-computing-example"
+main = "src/index.ts"
+compatibility_date = "2022-08-03"
+
+[vars]
+# UPSTASH_REDIS_REST_URL
+# UPSTASH_REDIS_REST_TOKEN
