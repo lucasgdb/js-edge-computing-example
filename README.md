@@ -2,6 +2,8 @@
 
 [Click here to get started](https://workers.cloudflare.com/)
 
+[Click here to check upstash serverless data for redis](https://upstash.com/)
+
 ### Install Wrangler, and log into your account
 
 ```bash
